@@ -1,8 +1,8 @@
 # GCPDataEngineer
-[Coursera : Google Cloud Professional Data Engineer](https://www.coursera.org/professional-certificates/gcp-data-engineering)  
+[Coursera : Google Cloud Professional Data Engineer](https://casselkim.notion.site/Google-Cloud-Professional-Data-Engineer-certification-822a50e2f349464f8e70b149364fa67e)  
 
 ## Contents
-1. [Google Cloud Big Data and Machine Learning Fundamentals](https://casselkim.notion.site/Google-Cloud-Big-Data-and-Machine-Learning-Fundamentals-d1f7cc64d9ac40fd8426763f6deaca5d) (2022-01-09)
+1. [Google Cloud Big Data and Machine Learning Fundamentals](https://casselkim.notion.site/Google-Cloud-Big-Data-and-Machine-Learning-Fundamentals-103feed6f6d04cab96ea72aecb413716) (2022-01-09)
 2. Modernizing Data Lakes and Data Warehouses with GCP
 3. Building Batch Data Pipelines on GCP
 4. Building Resilient Streaming Analytics Systems on Google Cloud
