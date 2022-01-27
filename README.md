@@ -6,7 +6,7 @@
 2. [Modernizing Data Lakes and Data Warehouses with GCP](https://casselkim.notion.site/Modernizing-Data-Lakes-and-Data-Warehouses-with-GCP-39132000892b49a99631f3045114f52d) (2022-01-12)
 3. [Building Batch Data Pipelines on GCP](https://casselkim.notion.site/Building-Batch-Data-Pipelines-on-GCP-b201c8641624469ebd635e5e6990606d) (2022-01-22)  
 4. [Building Resilient Streaming Analytics Systems on Google Cloud](https://casselkim.notion.site/Building-Resilient-Streaming-Analytics-Systems-on-Google-Cloud-2bcf91e0328849d6a6c3e395584b5744) (2022-01-25)  
-5. [Smart Analytics, Machine Learning, and AI on GCP](https://casselkim.notion.site/Smart-Analytics-Machine-Learning-and-AI-on-GCP-a67e6e4d65c14fcaa32dae635a2ccec1)
+5. [Smart Analytics, Machine Learning, and AI on GCP](https://casselkim.notion.site/Smart-Analytics-Machine-Learning-and-AI-on-GCP-a67e6e4d65c14fcaa32dae635a2ccec1) (2022-01-27)  
 6. Preparing for the Google Cloud Professional Data Engineer Exam
 
 
