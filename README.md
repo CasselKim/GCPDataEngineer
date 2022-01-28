@@ -7,7 +7,7 @@
 3. [Building Batch Data Pipelines on GCP](https://casselkim.notion.site/Building-Batch-Data-Pipelines-on-GCP-b201c8641624469ebd635e5e6990606d) (2022-01-22)  
 4. [Building Resilient Streaming Analytics Systems on Google Cloud](https://casselkim.notion.site/Building-Resilient-Streaming-Analytics-Systems-on-Google-Cloud-2bcf91e0328849d6a6c3e395584b5744) (2022-01-25)  
 5. [Smart Analytics, Machine Learning, and AI on GCP](https://casselkim.notion.site/Smart-Analytics-Machine-Learning-and-AI-on-GCP-a67e6e4d65c14fcaa32dae635a2ccec1) (2022-01-27)  
-6. Preparing for the Google Cloud Professional Data Engineer Exam
+6. [Preparing for the Google Cloud Professional Data Engineer Exam](https://casselkim.notion.site/Preparing-for-the-Google-Cloud-Professional-Data-Engineer-Exam-8d7d41f56f4f40b789949cc103260d43)
 
 
 
