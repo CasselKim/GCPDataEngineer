@@ -10,8 +10,8 @@
 6. [Preparing for the Google Cloud Professional Data Engineer Exam](https://casselkim.notion.site/Preparing-for-the-Google-Cloud-Professional-Data-Engineer-Exam-8d7d41f56f4f40b789949cc103260d43)
 
 
-
-
+## Result
+[GCP Certificates](https://www.credential.net/ee630203-742f-4987-8515-f7db297fd639?key=b1191d3c6ba565e5c98785a4481b338421510939bce758fd1cd7f514bfdf6fb)
 
 
 
